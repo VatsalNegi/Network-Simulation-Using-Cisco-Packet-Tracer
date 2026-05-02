@@ -6,8 +6,17 @@
 [![GitHub Issues](https://img.shields.io/github/issues/harismuneer/Network-Simulation-Using-Cisco-Packet-Tracer.svg?style=flat&label=Issues&maxAge=2592000)](https://www.github.com/harismuneer/Network-Simulation-Using-Cisco-Packet-Tracer/issues)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
 
-I designed this **network configuration for the network of three companies**, given some constraints. This problem was presented in our  Computer Networks Lab (CL307) Final. The main role was to **subnet the IP addresses** correctly.
+## My Contribution
 
+This project is based on the original work by Haris Muneer.
+
+I have:
+- Tested the complete network in Cisco Packet Tracer
+- Verified connectivity between multiple subnets
+- Understood subnetting and RIPv2 routing used in the project
+- Practiced troubleshooting using ping and IP configuration
+
+This project helped me strengthen my understanding of Computer Networks concepts.
 Its an interesting problem demonstrating the concepts of **Classless IP Subnetting** and using **RIPv2 Protocol**. I am sharing this **working solution** so that it might be of help to others looking to learn these concepts with a practical real world example.
 
 
