@@ -17,7 +17,7 @@ I have:
 - Practiced troubleshooting using ping and IP configuration
 
 This project helped me strengthen my understanding of Computer Networks concepts.
-Its an interesting problem demonstrating the concepts of **Classless IP Subnetting** and using **RIPv2 Protocol**. I am sharing this **working solution** so that it might be of help to others looking to learn these concepts with a practical real world example.
+Its an interesting problem demonstrating the concepts of **Classless IP Subnetting** and using **RIPv2 Protocol**. This repository is shared for learning and understanding networking concepts.
 
 
 ## Designed Network
